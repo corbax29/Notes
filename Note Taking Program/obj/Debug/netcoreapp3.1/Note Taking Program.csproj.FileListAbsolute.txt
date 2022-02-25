@@ -1,0 +1,16 @@
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\bin\Debug\netcoreapp3.1\Note Taking Program.exe
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\bin\Debug\netcoreapp3.1\Note Taking Program.deps.json
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\bin\Debug\netcoreapp3.1\Note Taking Program.runtimeconfig.json
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\bin\Debug\netcoreapp3.1\Note Taking Program.runtimeconfig.dev.json
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\bin\Debug\netcoreapp3.1\Note Taking Program.dll
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\bin\Debug\netcoreapp3.1\Note Taking Program.pdb
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note Taking Program.csproj.AssemblyReference.cache
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note_Taking_Program.Form1.resources
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note Taking Program.csproj.GenerateResource.cache
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note Taking Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note Taking Program.AssemblyInfoInputs.cache
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note Taking Program.AssemblyInfo.cs
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note Taking Program.csproj.CoreCompileInputs.cache
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note Taking Program.dll
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note Taking Program.pdb
+C:\Users\petar\Desktop\Domace pidarije\C#\Note Taking Program\obj\Debug\netcoreapp3.1\Note Taking Program.genruntimeconfig.cache
